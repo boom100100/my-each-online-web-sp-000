@@ -1,0 +1,3 @@
+def fcn(array)
+  
+end
