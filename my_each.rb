@@ -1,3 +1,3 @@
-def fcn(array)
-  
+def my_each(array)
+
 end
